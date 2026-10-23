@@ -1,0 +1,19 @@
+===================================================================
+
+NESNEYE YÖNELİK PROGRAMLAMA PROJE ÖDEVİ - PROJE TAKIMI BİLGİLERİ
+
+Proje Konusu: Afet ve Acil Durum Yönetimi: Yardım Kaynaklarının Öncelik ve İhtiyaç Durumuna Göre Dağıtılması
+
+===================================================================
+
+
+
+Öğrenci No : 1250505065
+
+Ad Soyad   : Alper BİYİK
+
+Görev      : Tek Kişilik Proje Grubu - Sistem Mimarisi, OOP Sınıf Tasarımı,
+
+             SOLID & Tasarım Kalıpları Uygulaması, Önceliklendirme Algoritması,
+
+             Dosya Tabanlı Kalıcı Veri Yönetimi, JUnit 5 Birim Testleri ve Sunum.
